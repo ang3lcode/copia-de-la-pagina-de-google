@@ -1,4 +1,4 @@
-# copia-de-la-pagina-de-google
+<div align="center"> # copia-de-la-pagina-de-google </div>
 copia de la pagina de google, parte del curso de html y css de platzi
  
 
