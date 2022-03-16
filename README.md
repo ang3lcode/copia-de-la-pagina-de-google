@@ -1,5 +1,5 @@
-<div align="center"> # copia-de-la-pagina-de-google </div>
-copia de la pagina de google, parte del curso de html y css de platzi
+<div align="center"> <h2> copia-de-la-pagina-de-google </h2> <br>
+copia de la pagina de google, parte del curso de html y css de platzi</div>
  
 
 <div align="center">
